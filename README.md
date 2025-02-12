@@ -1,12 +1,10 @@
-# 🔍 Find Your Perfect Note-Taking App
-
 <div align="center">
+
+# 🔍 Find Your Perfect Note-Taking App
 
 A delightful quiz that helps you discover your ideal note-taking app! Answer a few questions about your preferences, and we'll match you with the perfect tool for your digital note-taking journey.
 
 </div>
-
----
 
 ## ✨ Why This Quiz?
 
@@ -17,7 +15,7 @@ Finding the right note-taking app can be overwhelming with so many options avail
 - 🔄 Compare different apps side by side
 - ⏱️ Save time researching various options
 
-### Technical Excellence
+## 🛠️ Tech stack
 
 - 🛠️ Pure vanilla JavaScript - no dependencies
 - ⭐ WCAG 2.1 accessible design
@@ -33,7 +31,7 @@ Finding the right note-taking app can be overwhelming with so many options avail
 git clone https://github.com/joannaotmianowska/note-taking-app-quiz.git
 ```
 
----
+2. Open `index.html` file in your browser & enjoy!
 
 <div align="center">
 
