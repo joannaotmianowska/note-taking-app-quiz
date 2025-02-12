@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notes App Quiz - Find Your Perfect Note-Taking App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header>
+        <h1>🔍 Find Your Perfect Note-Taking App</h1>
+        <p class="instructions">
+          For each question, choose the option that best fits your style and
+          find the perfect note-taking app for your needs ✨
+        </p>
+      </header>
+
+      <section id="quiz-container" aria-live="polite">
+        <!-- Questions will be dynamically inserted here -->
+      </section>
+
+      <section id="results" class="hidden" aria-live="polite">
+        <h2>Your Results</h2>
+        <div class="result-content"></div>
+        <button type="button" class="restart-btn" onclick="restartQuiz()">
+          Take Quiz Again
+        </button>
+      </section>
+
+      <div class="progress-container">
+        <div
+          class="progress-bar"
+          role="progressbar"
+          aria-valuemin="0"
+          aria-valuemax="100"
+          aria-valuenow="0"
+        ></div>
+      </div>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
