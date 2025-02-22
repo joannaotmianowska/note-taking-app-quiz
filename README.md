@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔍 Find Your Perfect Note-Taking App
+# 🔍 Find Your Note-Taking App
 
-A delightful quiz that helps you discover your ideal note-taking app! Answer a few questions about your preferences, and we'll match you with the perfect tool for your digital note-taking journey.
+A delightful quiz that helps you discover your note-taking app! Answer a few questions about your preferences, and we'll match you with the perfect tool for your digital note-taking journey.
 
 </div>
 
